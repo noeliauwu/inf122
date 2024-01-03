@@ -1,3 +1,23 @@
 body {
     background-color: aquamarine;
 }
+
+p {
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+
+img{
+    max-width: 25%;
+    max-height: 255;
+
+}
+.enviar{
+    border-radius: 5px;
+    background-color: rgb(red, green, blue);
+}
+.etiqueta{
+    font-size: 15px;
+
+}
